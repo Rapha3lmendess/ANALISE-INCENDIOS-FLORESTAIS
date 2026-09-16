@@ -1,5 +1,5 @@
 # ANALISE-INCENDIOS-FLORESTAIS
- Análise de Incêndios Florestais
+ Análise de Incêndios Florestais *EM ANDAMENTO*
 
 Projeto de análise de dados sobre incêndios florestais no Brasil, desenvolvido em Python.
 
